@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+temporalio
+pymupdf
+pdfplumber
+sqlalchemy
+asyncpg
+hypothesis
+pytest
+pytest-asyncio
+aiosqlite
+python-multipart
+httpx
